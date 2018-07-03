@@ -1,0 +1,19 @@
+All source code	allsrc.zip (4.3MB)
+Chapter 1, "Java Threads"	ch01src.zip
+Chapter 2, "2D Graphics and Animation"	ch02src.zip
+Chapter 3, "Interactivity and User Interfaces"	ch03src.zip
+Chapter 4, "Sound Effects and Music"	ch04src.zip
+Chapter 5, "Creating a 2D Platform Game"	ch05src.zip
+Chapter 6, "Multi-Player Games" (By Bret Barker)	ch06src.zip
+Chapter 7, "3D Graphics"	ch07src.zip
+Chapter 8, "Texture Mapping and Lighting"	ch08src.zip
+Chapter 9, "3D Objects"	ch09src.zip
+Chapter 10, "3D Scene Management Using BSP Trees"	ch10src.zip
+Chapter 11, "Collision Detection"	ch11src.zip
+Chapter 12, "Path Finding"	ch12src.zip
+Chapter 13, "Artificial Intelligence"	ch13src.zip
+Chapter 14, "Game Scripting"	ch14src.zip
+Chapter 15, "Persistence - Saving the Game" (By Laurence Vanhelsuwé)	ch15src.zip
+Chapter 16, "Optimization Techniques"	ch16src.zip
+Chapter 17, "Creating Game Art and Sounds"	ch17src.zip
+Chapter 18, "Game Design and the Last 10%"	ch18src.zip
